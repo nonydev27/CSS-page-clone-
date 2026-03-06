@@ -1,0 +1,15 @@
+:root {
+  /* Primary Brand Colors */
+  --css-blue: #2563eb;          /* Main dashboard "Administration" blue */
+  --css-dark-blue: #1e3a8a;     /* Executive Board title blue */
+  
+  /* Text & Contrast Colors */
+  --text-heading: #111827;      /* Dark near-black for names and titles */
+  --text-body: #4b5563;         /* Muted gray for descriptions and roles */
+  --text-highlight: #eab308;    /* Yellow used for labels like "President" */
+  
+  /* UI & Background Colors */
+  --bg-dashboard: #f8fafc;      /* Light gray-blue background of the portal */
+  --card-shadow: rgba(0, 0, 0, 0.1); /* Subtle shadow for executive cards */
+  --white: #ffffff;             /* Card background and clear contrast */
+}
